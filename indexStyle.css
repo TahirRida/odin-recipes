@@ -1,0 +1,32 @@
+.pagetitle{
+    padding-left : 30px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: aqua;
+}
+a{
+    text-decoration:none;
+    
+}
+.Greetings{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-left : 50px;
+}
+.Question{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-left : 60px;
+}
+ul{
+    padding-left : 90px;
+}
+a:hover{
+    background-color: yellow;
+    text-decoration:underline;
+    font-size:large;
+}
+/*a:visited{
+    background-color: green;
+    text-decoration: underline;
+}
+*/
+
+

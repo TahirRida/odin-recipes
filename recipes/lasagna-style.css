@@ -1,0 +1,43 @@
+.pagetitle{
+    padding-left : 30px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: aqua;
+}
+.burgerdish{
+    height:auto;
+    width:400px;
+    padding-left:80px;
+    padding-top: 25px;
+    justify-content: center;
+}
+.lasagnadish{
+    height:auto;
+    width:400px;
+    padding-left:80px;
+    padding-top: 25px;
+    justify-content: center;
+}
+.descriptiontitle{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-left:80px;
+}
+.descriptionparagraph{
+    padding-left: 100px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.Ingredientstitle{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-left:80px;
+}
+.ingredientsparagraph{
+    padding-left: 100px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.Stepbystepguide{
+    padding-left:80px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.stepsparagraph{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding-left:80px;
+}
